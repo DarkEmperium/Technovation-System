@@ -1,4 +1,4 @@
-# Technovation House Rental Management System
+# *Technovation House Rental Management System*
 
 ![Banner](https://github.com/DarkEmperium/Technovation-System/blob/main/assets/images/banner1.png)
 
@@ -6,7 +6,7 @@
 
 ---
 
-## **Languages & Tools** 🛠️
+## 🛠️ *Languages & Tools*
 - ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 - ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -16,8 +16,7 @@
 
 ---
 
-## **Features**
-
+## ✨ *Features*
 - *Easy property listing management for landlords*
 - *Advanced search functionality for finding rental properties*
 - *Secure user authentication and role-based access control*
@@ -26,17 +25,7 @@
 
 ---
 
-## **Technologies Used**
-
-- *Front-End*: *HTML, CSS (Bootstrap), JavaScript*
-- *Back-End*: *PHP*
-- *Database*: *MySQL*
-- *API Integration*: *Stripe (for payment processing)*
-
----
-
-## **Setup Instructions**
-
+## ⚙️ *Setup Instructions*
 1. *Clone the repository:*
    ```bash
    git clone https://github.com/DarkEmperium/Technovation-System.git
