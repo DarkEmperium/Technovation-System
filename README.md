@@ -16,7 +16,7 @@
 
 ---
 
-## ✨ *Features*
+✨ *Features*
 - *Easy property listing management for landlords*
 - *Advanced search functionality for finding rental properties*
 - *Secure user authentication and role-based access control*
@@ -26,6 +26,7 @@
 ---
 
 ## ⚙️ *Setup Instructions*
-1. *Clone the repository:*
+1. *Clone the repository :*
+
    ```bash
    git clone https://github.com/DarkEmperium/Technovation-System.git
