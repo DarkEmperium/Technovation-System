@@ -28,5 +28,5 @@
 ## ⚙️ *Setup Instructions*
 1. *Clone the repository :*
 
-   ```bash
+```bash
    git clone https://github.com/DarkEmperium/Technovation-System.git
