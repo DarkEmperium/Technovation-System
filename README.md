@@ -25,12 +25,6 @@
 
 ---
 
-## 🌐 *Live Website*
-
-*Access the live version of the system here : [Technovation House Rental Management System](https://technovation.wuaze.com)*
-
----
-
 ## ⚙️ *Setup Instructions*
 1. *Clone the repository :*
 
