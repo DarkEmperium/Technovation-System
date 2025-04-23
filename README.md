@@ -2,7 +2,7 @@
 
 ![Banner](https://github.com/DarkEmperium/Technovation-System/blob/main/assets/images/banner1.png)
 
-*Simplifying house rental management for landlords and tenants*
+*Welcome to **Technovation System**, a comprehensive platform developed as a part of my Final Year Project (FYP). This system is designed to simplify and enhance the process of renting houses, both for property owners and tenants.*
 
 ---
 
@@ -30,3 +30,4 @@
    
 ```bash
    git clone https://github.com/DarkEmperium/Technovation-System.git
+
