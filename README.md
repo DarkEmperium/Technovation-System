@@ -2,8 +2,6 @@
 
 ![Banner](https://github.com/DarkEmperium/Technovation-System/blob/main/assets/images/banner1.png)
 
-![Logo](https://github.com/DarkEmperium/Technovation-System/blob/main/assets/images/logo.png)
-
 *Simplifying house rental management for landlords and tenants*
 
 ---
