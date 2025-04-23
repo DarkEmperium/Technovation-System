@@ -237,7 +237,7 @@
             <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"><i class="fa fa-youtube-play"></i></a>
         </div>
         <h6 style="color: rgb(255, 255, 255);">© <span id="currentYear"></span> Coded With Visual Studio Code - Website owned by Technovation Team</h6></a>
-        <h6 style="color: rgb(255, 255, 255);">Coded By Chua Jun De & Chan Yi Soon Copyright Reserved</h6>
+        <h6 style="color: rgb(255, 255, 255);">Coded By Dark Emperium Copyright Reserved</h6>
     </section>
 
     <script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>
