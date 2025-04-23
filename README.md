@@ -13,6 +13,7 @@
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 - ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+- ![PHPMailer](https://img.shields.io/badge/PHPMailer-333333?style=for-the-badge&logo=mail.ru&logoColor=white)
 
 ---
 
